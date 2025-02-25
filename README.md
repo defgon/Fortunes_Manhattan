@@ -28,7 +28,7 @@ This project implements **Fortune’s Algorithm** for generating **Voronoi diagr
 
 ### **Euclidean vs. Manhattan Voronoi Diagrams**
 **Euclidean Metric Voronoi Diagram**  
-![Voronoi in Euclidean Metric](img/tribonacci_euclid.png)
+![Voronoi in Euclidean Metric](img/tribonacci_eucleid.png)
 
 **Manhattan Metric Voronoi Diagram**  
 ![Voronoi in Manhattan Metric](img/tribonacci_manhattan.png)
