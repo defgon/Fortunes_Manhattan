@@ -1,0 +1,3 @@
+/home/petr/FJFI/Bakalářka/Fortunes_Manhattan/build/CMakeFiles/MyProject.dir
+/home/petr/FJFI/Bakalářka/Fortunes_Manhattan/build/CMakeFiles/edit_cache.dir
+/home/petr/FJFI/Bakalářka/Fortunes_Manhattan/build/CMakeFiles/rebuild_cache.dir

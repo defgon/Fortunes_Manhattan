@@ -1,0 +1,2013 @@
+Angle: 0
+Angle at p0: 18.3689 degrees
+Angle at p1: 115.827 degrees
+Angle at p2: 45.8042 degrees
+245.144 33.4917
+329.796 33.4917
+346.006 0
+
+Angle: -1
+Angle at p0: 66.9333 degrees
+Angle at p1: 45.4446 degrees
+Angle at p2: 67.6221 degrees
+565.93 110.89
+686.984 149.158
+629.611 36.6181
+
+Angle: -2
+Angle at p0: 67.187 degrees
+Angle at p1: 45.0893 degrees
+Angle at p2: 67.7237 degrees
+561.659 108.536
+683.553 145.156
+623.663 33.4115
+
+Angle: -3
+Angle: -4
+Angle: -5
+Angle: -6
+Angle: -7
+Angle: -8
+Angle: -9
+Angle: -10
+Angle at p0: 45.9737 degrees
+Angle at p1: 92.5056 degrees
+Angle at p2: 41.5207 degrees
+187.828 57.1444
+231.725 91.647
+271.195 45.7152
+
+Angle: -11
+Angle at p0: 45.794 degrees
+Angle at p1: 92.3984 degrees
+Angle at p2: 41.8076 degrees
+182.408 59.9294
+227.072 93.8311
+265.505 47.3707
+
+Angle: -12
+Angle at p0: 45.6246 degrees
+Angle at p1: 92.2735 degrees
+Angle at p2: 42.1019 degrees
+177.051 62.7875
+222.469 96.0779
+259.853 49.1031
+
+Angle: -13
+Angle at p0: 45.4655 degrees
+Angle at p1: 92.1312 degrees
+Angle at p2: 42.4033 degrees
+171.759 65.7179
+217.917 98.387
+254.241 50.912
+
+Angle: -14
+Angle at p0: 45.3168 degrees
+Angle at p1: 91.9715 degrees
+Angle at p2: 42.7117 degrees
+166.533 68.7197
+213.418 100.757
+248.671 52.7968
+
+Angle: -15
+Angle at p0: 45.1786 degrees
+Angle at p1: 91.7946 degrees
+Angle at p2: 43.0268 degrees
+161.376 71.7919
+208.973 103.189
+243.144 54.7569
+
+Angle: -16
+Angle at p0: 45.0507 degrees
+Angle at p1: 91.6008 degrees
+Angle at p2: 43.3485 degrees
+156.288 74.9336
+204.583 105.68
+237.661 56.7916
+
+Angle: -17
+Angle at p0: 135.067 degrees
+Angle at p1: 18.1418 degrees
+Angle at p2: 26.7915 degrees
+446.017 14.7865
+526.971 -4.45685
+397.04 -15.2994
+
+Angle: -18
+Angle at p0: 135.174 degrees
+Angle at p1: 18.1677 degrees
+Angle at p2: 26.6588 degrees
+439.607 14.0745
+520.116 -6.26444
+389.961 -15.3423
+
+Angle: -19
+Angle at p0: 135.27 degrees
+Angle at p1: 18.1979 degrees
+Angle at p2: 26.5321 degrees
+433.181 13.4496
+513.221 -7.97874
+382.883 -15.2891
+
+Angle: -20
+Angle at p0: 135.356 degrees
+Angle at p1: 18.2325 degrees
+Angle at p2: 26.4116 degrees
+426.742 12.9119
+506.29 -9.59922
+375.807 -15.1398
+
+Angle: -21
+Angle at p0: 135.431 degrees
+Angle at p1: 18.2715 degrees
+Angle at p2: 26.2972 degrees
+420.293 12.4617
+499.323 -11.1254
+368.736 -14.8946
+
+Angle: -22
+Angle at p0: 135.496 degrees
+Angle at p1: 18.3149 degrees
+Angle at p2: 26.189 degrees
+413.834 12.0991
+492.322 -12.5568
+361.671 -14.5534
+
+Angle: -23
+Angle at p0: 135.551 degrees
+Angle at p1: 18.3626 degrees
+Angle at p2: 26.0868 degrees
+407.368 11.8242
+485.291 -13.893
+354.614 -14.1164
+
+Angle: -24
+Angle at p0: 135.594 degrees
+Angle at p1: 18.4148 degrees
+Angle at p2: 25.9909 degrees
+400.897 11.6371
+478.231 -15.1336
+347.569 -13.5838
+
+Angle: -25
+Angle at p0: 135.628 degrees
+Angle at p1: 18.4713 degrees
+Angle at p2: 25.901 degrees
+394.423 11.5378
+471.144 -16.2782
+340.537 -12.9556
+
+Angle: -26
+Angle at p0: 135.65 degrees
+Angle at p1: 18.5323 degrees
+Angle at p2: 25.8173 degrees
+387.947 11.5264
+464.032 -17.3264
+333.52 -12.2321
+
+Angle: -27
+Angle at p0: 135.663 degrees
+Angle at p1: 18.5977 degrees
+Angle at p2: 25.7398 degrees
+381.472 11.6028
+456.898 -18.278
+326.52 -11.4135
+
+Angle: -28
+Angle at p0: 135.664 degrees
+Angle at p1: 18.6675 degrees
+Angle at p2: 25.6683 degrees
+375 11.7671
+449.744 -19.1327
+319.539 -10.5
+
+Angle: -29
+Angle at p0: 135.655 degrees
+Angle at p1: 18.7417 degrees
+Angle at p2: 25.603 degrees
+368.533 12.0192
+442.571 -19.8901
+312.58 -9.49193
+
+Angle: -30
+Angle at p0: 135.636 degrees
+Angle at p1: 18.8204 degrees
+Angle at p2: 25.5438 degrees
+362.072 12.359
+435.383 -20.5501
+305.645 -8.38959
+
+Angle: -31
+Angle at p0: 135.606 degrees
+Angle at p1: 18.9035 degrees
+Angle at p2: 25.4907 degrees
+355.62 12.7865
+428.181 -21.1124
+298.736 -7.19332
+
+Angle: -32
+Angle at p0: 25.4437 degrees
+Angle at p1: 135.565 degrees
+Angle at p2: 18.991 degrees
+291.854 -5.90347
+349.178 13.3014
+420.967 -21.5769
+
+Angle: -33
+Angle at p0: 25.4028 degrees
+Angle at p1: 135.514 degrees
+Angle at p2: 19.083 degrees
+285.003 -4.52045
+342.749 13.9036
+413.744 -21.9435
+
+Angle: -34
+Angle at p0: 25.368 degrees
+Angle at p1: 135.453 degrees
+Angle at p2: 19.1794 degrees
+278.184 -3.04466
+336.334 14.5931
+406.514 -22.212
+
+Angle: -35
+Angle at p0: 25.3393 degrees
+Angle at p1: 135.38 degrees
+Angle at p2: 19.2802 degrees
+271.398 -1.47656
+329.936 15.3694
+399.279 -22.3824
+
+Angle: -36
+Angle at p0: 25.3167 degrees
+Angle at p1: 135.298 degrees
+Angle at p2: 19.3855 degrees
+264.649 0.18337
+323.556 16.2324
+392.041 -22.4545
+
+Angle: -37
+Angle at p0: 25.3001 degrees
+Angle at p1: 135.205 degrees
+Angle at p2: 19.4952 degrees
+257.939 1.93463
+317.197 17.1819
+384.803 -22.4285
+
+Angle: -38
+Angle at p0: 25.2897 degrees
+Angle at p1: 135.101 degrees
+Angle at p2: 19.6093 degrees
+251.268 3.77668
+310.86 18.2175
+377.567 -22.3042
+
+Angle: -39
+Angle at p0: 45.0131 degrees
+Angle at p1: 83.2796 degrees
+Angle at p2: 51.7073 degrees
+61.7895 163.931
+121.696 177.561
+127.577 122.51
+
+Angle: -40
+Angle at p0: 45.1377 degrees
+Angle at p1: 82.7991 degrees
+Angle at p2: 52.0632 degrees
+58.7853 168.41
+118.989 181.225
+123.633 126.103
+
+Angle: -41
+Angle at p0: 45.2727 degrees
+Angle at p1: 82.3138 degrees
+Angle at p2: 52.4134 degrees
+55.8821 172.929
+116.364 184.925
+119.77 129.748
+
+Angle: -42
+Angle at p0: 45.4182 degrees
+Angle at p1: 81.8244 degrees
+Angle at p2: 52.7574 degrees
+53.0807 177.487
+113.822 188.66
+115.99 133.446
+
+Angle: -43
+Angle at p0: 45.574 degrees
+Angle at p1: 81.3317 degrees
+Angle at p2: 53.0943 degrees
+50.3821 182.082
+111.365 192.429
+112.293 137.194
+
+Angle: -44
+Angle at p0: 53.4236 degrees
+Angle at p1: 45.7402 degrees
+Angle at p2: 80.8362 degrees
+108.993 196.231
+169.887 150.51
+108.681 140.992
+
+Angle: -45
+Angle at p0: 53.7446 degrees
+Angle at p1: 45.9167 degrees
+Angle at p2: 80.3387 degrees
+106.707 200.065
+166.565 153.525
+105.155 144.838
+
+Angle: -46
+Angle at p0: 1.03866e-05 degrees
+Angle at p1: 1.03515e-05 degrees
+Angle at p2: 180 degrees
+-15.8938 243.423
+29.1409 418.481
+6.62357 330.952
+
+Angle: -47
+Angle at p0: 1.03162e-05 degrees
+Angle at p1: 1.03162e-05 degrees
+Angle at p2: 180 degrees
+-17.1019 248.944
+31.8554 423.364
+7.37677 336.154
+
+Angle: -48
+Angle at p0: 1.02808e-05 degrees
+Angle at p1: 1.02808e-05 degrees
+Angle at p2: 180 degrees
+-18.1859 254.48
+34.6791 428.21
+8.24663 341.345
+
+Angle: -49
+Angle at p0: 1.0102e-05 degrees
+Angle at p1: 1.01739e-05 degrees
+Angle at p2: 180 degrees
+-19.1454 260.031
+37.6111 433.016
+9.23287 346.524
+
+Angle: -50
+Angle at p0: 1.01739e-05 degrees
+Angle at p1: 1.02453e-05 degrees
+Angle at p2: 180 degrees
+-19.9802 265.593
+40.6506 437.783
+10.3352 351.688
+
+Angle: -51
+Angle at p0: 1.0138e-05 degrees
+Angle at p1: 1.00658e-05 degrees
+Angle at p2: 180 degrees
+-20.69 271.166
+43.7966 442.507
+11.5533 356.837
+
+Angle: -52
+Angle at p0: 1.01739e-05 degrees
+Angle at p1: 1.01739e-05 degrees
+Angle at p2: 180 degrees
+-21.2746 276.748
+47.0482 447.188
+12.8868 361.968
+
+Angle: -53
+Angle: -54
+Angle: -55
+Angle at p0: 66.6213 degrees
+Angle at p1: 45.9168 degrees
+Angle at p2: 67.4619 degrees
+208.373 48.5985
+296.778 78.396
+256.927 -5.31667
+
+Angle: -56
+Angle at p0: 66.8571 degrees
+Angle at p1: 45.556 degrees
+Angle at p2: 67.5869 degrees
+202.757 51.106
+291.818 79.6994
+250.094 -3.45979
+
+Angle: -57
+Angle at p0: 90.2616 degrees
+Angle at p1: 37.2459 degrees
+Angle at p2: 52.4925 degrees
+286.888 81.0699
+395.385 24.4397
+243.304 -1.51047
+
+Angle: -58
+Angle at p0: 90.5429 degrees
+Angle at p1: 37.3448 degrees
+Angle at p2: 52.1123 degrees
+281.99 82.5071
+389.199 24.4132
+236.559 0.530687
+
+Angle: -59
+Angle at p0: 90.8089 degrees
+Angle at p1: 37.4525 degrees
+Angle at p2: 51.7387 degrees
+277.124 84.0105
+383.013 24.4707
+229.86 2.66307
+
+Angle: -60
+Angle at p0: 64.9733 degrees
+Angle at p1: 90.8396 degrees
+Angle at p2: 24.1871 degrees
+321.376 166.273
+383.586 162.306
+376.829 24.6122
+
+Angle: -61
+Angle at p0: 65.4155 degrees
+Angle at p1: 90.3354 degrees
+Angle at p2: 24.2492 degrees
+318.385 167.23
+380.496 162.419
+370.65 24.8375
+
+Angle: -62
+Angle: -63
+Angle: -64
+Angle: -65
+Angle: -66
+Angle: -67
+Angle: -68
+Angle: -69
+Angle: -70
+Angle: -71
+Angle: -72
+Angle: -73
+Angle: -74
+Angle: -75
+Angle: -76
+Angle: -77
+Angle: -78
+Angle: -79
+Angle: -80
+Angle at p0: 45.8607 degrees
+Angle at p1: 92.4411 degrees
+Angle at p2: 41.6982 degrees
+409.536 22.4992
+491.155 85.274
+562.568 0.184589
+
+Angle: -81
+Angle at p0: 45.6874 degrees
+Angle at p1: 92.3229 degrees
+Angle at p2: 41.9898 degrees
+403.304 22.281
+486.32 83.9387
+555.812 -2.10674
+
+Angle: -82
+Angle at p0: 45.5244 degrees
+Angle at p1: 92.1871 degrees
+Angle at p2: 42.2885 degrees
+397.068 22.1474
+481.455 82.6693
+549.005 -4.30605
+
+Angle: -83
+Angle at p0: 45.3718 degrees
+Angle at p1: 92.0339 degrees
+Angle at p2: 42.5943 degrees
+390.83 22.0985
+476.563 81.4661
+542.15 -6.41266
+
+Angle: -84
+Angle at p0: 45.2296 degrees
+Angle at p1: 91.8635 degrees
+Angle at p2: 42.9069 degrees
+384.592 22.1342
+471.645 80.3294
+535.249 -8.42593
+
+Angle: -85
+Angle at p0: 45.0978 degrees
+Angle at p1: 91.6761 degrees
+Angle at p2: 43.2261 degrees
+378.356 22.2545
+466.702 79.2596
+528.304 -10.3453
+
+Angle: -86
+Angle: -87
+Angle at p0: 46.1386 degrees
+Angle at p1: 45.1125 degrees
+Angle at p2: 88.749 degrees
+514.29 -13.8998
+547.597 131.895
+605.141 40.6733
+
+Angle: -88
+Angle at p0: 45.789 degrees
+Angle at p1: 45.225 degrees
+Angle at p2: 88.986 degrees
+507.225 -15.5338
+543.8 129.787
+599.287 37.7981
+
+Angle: -89
+Angle at p0: 44.6753 degrees
+Angle at p1: 90.7608 degrees
+Angle at p2: 44.5638 degrees
+353.467 23.5813
+446.711 75.6559
+500.125 -17.0718
+
+Angle: -90
+Angle at p0: 44.596 degrees
+Angle at p1: 90.4921 degrees
+Angle at p2: 44.912 degrees
+347.268 24.1238
+441.667 74.9252
+492.991 -18.5132
+
+Angle: -91
+Angle at p0: 44.5271 degrees
+Angle at p1: 90.2079 degrees
+Angle at p2: 45.265 degrees
+341.082 24.7503
+436.607 74.263
+485.826 -19.8576
+
+Angle: -92
+Angle at p0: 44.4688 degrees
+Angle at p1: 89.9088 degrees
+Angle at p2: 45.6225 degrees
+334.911 25.4607
+431.533 73.6696
+478.632 -21.1045
+
+Angle: -93
+Angle at p0: 44.421 degrees
+Angle at p1: 89.595 degrees
+Angle at p2: 45.984 degrees
+328.757 26.2547
+426.446 73.1452
+471.41 -22.2536
+
+Angle: -94
+Angle: -95
+Angle: -96
+Angle: -97
+Angle: -98
+Angle: -99
+Angle: -100
+Angle: -101
+Angle: -102
+Angle: -103
+Angle: -104
+Angle: -105
+Angle: -106
+Angle: -107
+Angle: -108
+Angle: -109
+Angle at p0: 45.0893 degrees
+Angle at p1: 82.9814 degrees
+Angle at p2: 51.9292 degrees
+234.097 50.0577
+344.625 74.1958
+354.027 -27.1437
+
+Angle: -110
+Angle at p0: 45.2204 degrees
+Angle at p1: 82.4979 degrees
+Angle at p2: 52.2817 degrees
+228.51 52.216
+339.564 74.8506
+346.69 -26.6011
+
+Angle: -111
+Angle at p0: 45.3619 degrees
+Angle at p1: 82.0099 degrees
+Angle at p2: 52.6281 degrees
+222.973 54.4497
+334.517 75.5739
+339.365 -25.959
+
+Angle: -112
+Angle at p0: 45.5139 degrees
+Angle at p1: 81.5183 degrees
+Angle at p2: 52.9678 degrees
+217.487 56.7582
+329.488 76.3656
+332.056 -25.2176
+
+Angle: -113
+Angle at p0: 45.6761 degrees
+Angle at p1: 81.0238 degrees
+Angle at p2: 53.3001 degrees
+212.053 59.1408
+324.478 77.2254
+324.765 -24.3772
+
+Angle: -114
+Angle at p0: 53.6243 degrees
+Angle at p1: 45.8488 degrees
+Angle at p2: 80.527 degrees
+319.487 78.1531
+430.308 -6.88163
+317.494 -23.4379
+
+Angle: -115
+Angle at p0: 90.9829 degrees
+Angle at p1: 37.5318 degrees
+Angle at p2: 51.4853 degrees
+350.294 138.8
+427.687 94.1713
+314.518 79.1484
+
+Angle: -116
+Angle at p0: 65.2773 degrees
+Angle at p1: 90.4919 degrees
+Angle at p2: 24.2308 degrees
+610.767 225.495
+656.589 222.141
+650.037 120.666
+
+Angle: -117
+Angle: -118
+Angle: -119
+Angle: -120
+Angle: -121
+Angle at p0: 26.4787 degrees
+Angle at p1: 90.8089 degrees
+Angle at p2: 62.7124 degrees
+540.075 53.7794
+628.946 103.75
+654.643 59.5227
+
+Angle: -122
+Angle at p0: 26.3608 degrees
+Angle at p1: 90.543 degrees
+Angle at p2: 63.0962 degrees
+534.526 51.7851
+624.505 100.543
+649.205 55.9729
+
+Angle: -123
+Angle at p0: 26.2491 degrees
+Angle at p1: 90.2616 degrees
+Angle at p2: 63.4892 degrees
+528.932 49.8665
+619.992 97.3955
+643.688 52.4974
+
+Angle: -124
+Angle at p0: 45.556 degrees
+Angle at p1: 18.3352 degrees
+Angle at p2: 116.109 degrees
+464.3 599.336
+601.782 555.196
+486.984 554.123
+
+Angle: -125
+Angle at p0: 45.9168 degrees
+Angle at p1: 18.3849 degrees
+Angle at p2: 115.698 degrees
+471.007 598.286
+607.478 552.288
+492.674 552.773
+
+Angle: -126
+Angle: -127
+Angle: -128
+Angle: -129
+Angle: -130
+Angle: -131
+Angle: -132
+Angle: -133
+Angle: -134
+Angle: -135
+Angle at p0: 45.9167 degrees
+Angle at p1: 92.4742 degrees
+Angle at p2: 41.6091 degrees
+447.844 80.6765
+507.702 127.217
+560.796 64.6992
+
+Angle: -136
+Angle at p0: 45.7402 degrees
+Angle at p1: 92.3615 degrees
+Angle at p2: 41.8983 degrees
+442.912 79.9296
+503.806 125.651
+555.488 62.4221
+
+Angle: -137
+Angle at p0: 45.574 degrees
+Angle at p1: 92.2312 degrees
+Angle at p2: 42.1948 degrees
+437.965 79.2498
+499.875 124.138
+550.13 60.2173
+
+Angle: -138
+Angle at p0: 45.4182 degrees
+Angle at p1: 92.0834 degrees
+Angle at p2: 42.4985 degrees
+433.002 78.6372
+495.911 122.678
+544.724 58.0856
+
+Angle: -139
+Angle at p0: 45.2727 degrees
+Angle at p1: 91.9183 degrees
+Angle at p2: 42.809 degrees
+428.027 78.0921
+491.915 121.273
+539.27 56.0276
+
+Angle: -140
+Angle at p0: 45.1377 degrees
+Angle at p1: 91.7362 degrees
+Angle at p2: 43.1262 degrees
+423.04 77.6145
+487.888 119.922
+533.771 54.0439
+
+Angle: -141
+Angle at p0: 45.0131 degrees
+Angle at p1: 91.5371 degrees
+Angle at p2: 43.4498 degrees
+418.043 77.2047
+483.831 118.625
+528.228 52.1351
+
+Angle: -142
+Angle at p0: 135.101 degrees
+Angle at p1: 18.1494 degrees
+Angle at p2: 26.7496 degrees
+416.643 28.4125
+526.249 1.85165
+349.936 -12.1092
+
+Angle: -143
+Angle at p0: 135.205 degrees
+Angle at p1: 18.1766 degrees
+Angle at p2: 26.6187 degrees
+410.543 28.097
+519.536 0.0528973
+342.937 -11.5134
+
+Angle: -144
+Angle at p0: 135.298 degrees
+Angle at p1: 18.2082 degrees
+Angle at p2: 26.494 degrees
+404.437 27.8643
+512.783 -1.65449
+335.952 -10.8226
+
+Angle: -145
+Angle at p0: 135.38 degrees
+Angle at p1: 18.2442 degrees
+Angle at p2: 26.3754 degrees
+398.326 27.7145
+505.993 -3.27
+328.983 -10.0372
+
+Angle: -146
+Angle at p0: 135.453 degrees
+Angle at p1: 18.2845 degrees
+Angle at p2: 26.2629 degrees
+392.213 27.6477
+499.169 -4.79312
+322.033 -9.1574
+
+Angle: -147
+Angle at p0: 135.514 degrees
+Angle at p1: 18.3292 degrees
+Angle at p2: 26.1565 degrees
+386.099 27.6638
+492.31 -6.2234
+315.104 -8.18338
+
+Angle: -148
+Angle at p0: 135.565 degrees
+Angle at p1: 18.3784 degrees
+Angle at p2: 26.0563 degrees
+379.987 27.7629
+485.421 -7.5604
+308.198 -7.11549
+
+Angle: -149
+Angle at p0: 135.606 degrees
+Angle at p1: 18.4319 degrees
+Angle at p2: 25.9623 degrees
+373.878 27.9448
+478.503 -8.80372
+301.317 -5.95405
+
+Angle: -150
+Angle at p0: 135.636 degrees
+Angle at p1: 18.4898 degrees
+Angle at p2: 25.8743 degrees
+367.774 28.2097
+471.558 -9.95297
+294.463 -4.69941
+
+Angle: -151
+Angle at p0: 135.655 degrees
+Angle at p1: 18.5522 degrees
+Angle at p2: 25.7926 degrees
+361.676 28.5573
+464.588 -11.0078
+287.638 -3.35195
+
+Angle: -152
+Angle at p0: 135.664 degrees
+Angle at p1: 18.6189 degrees
+Angle at p2: 25.7169 degrees
+355.588 28.9877
+457.596 -11.9679
+280.844 -1.9121
+
+Angle: -153
+Angle at p0: 135.663 degrees
+Angle at p1: 18.6901 degrees
+Angle at p2: 25.6473 degrees
+349.51 29.5006
+450.583 -12.833
+274.084 -0.380276
+
+Angle: -154
+Angle at p0: 135.65 degrees
+Angle at p1: 18.7657 degrees
+Angle at p2: 25.5839 degrees
+343.444 30.0959
+443.552 -13.6028
+267.359 1.24305
+
+Angle: -155
+Angle at p0: 135.628 degrees
+Angle at p1: 18.8458 degrees
+Angle at p2: 25.5266 degrees
+337.393 30.7734
+436.505 -14.277
+260.672 2.95737
+
+Angle: -156
+Angle at p0: 135.594 degrees
+Angle at p1: 18.9302 degrees
+Angle at p2: 25.4754 degrees
+331.358 31.5329
+429.443 -14.8555
+254.024 4.76218
+
+Angle: -157
+Angle at p0: 25.4303 degrees
+Angle at p1: 135.551 degrees
+Angle at p2: 19.0191 degrees
+247.418 6.65692
+325.341 32.3741
+422.37 -15.3382
+
+Angle: -158
+Angle at p0: 25.3913 degrees
+Angle at p1: 135.496 degrees
+Angle at p2: 19.1125 degrees
+240.855 8.64101
+319.343 33.2969
+415.287 -15.7247
+
+Angle: -159
+Angle at p0: 25.3584 degrees
+Angle at p1: 135.431 degrees
+Angle at p2: 19.2103 degrees
+234.338 10.7139
+313.368 34.301
+408.196 -16.0151
+
+Angle: -160
+Angle at p0: 25.3316 degrees
+Angle at p1: 135.356 degrees
+Angle at p2: 19.3125 degrees
+227.868 12.8748
+307.415 35.386
+401.1 -16.2092
+
+Angle: -161
+Angle at p0: 25.3109 degrees
+Angle at p1: 135.27 degrees
+Angle at p2: 19.4191 degrees
+221.448 15.1232
+301.488 36.5516
+394.001 -16.307
+
+Angle: -162
+Angle at p0: 25.2962 degrees
+Angle at p1: 135.174 degrees
+Angle at p2: 19.5302 degrees
+215.079 17.4585
+295.588 37.7974
+386.9 -16.3085
+
+Angle: -163
+Angle at p0: 25.2877 degrees
+Angle at p1: 135.067 degrees
+Angle at p2: 19.6456 degrees
+208.764 19.8797
+289.717 39.1231
+379.801 -16.2136
+
+Angle: -164
+Angle at p0: 45.0507 degrees
+Angle at p1: 83.1308 degrees
+Angle at p2: 51.8185 degrees
+303.878 86.5006
+385.251 104.643
+392.705 29.9499
+
+Angle: -165
+Angle at p0: 45.1786 degrees
+Angle at p1: 82.6487 degrees
+Angle at p2: 52.1727 degrees
+299.099 87.7064
+380.866 104.741
+386.643 29.959
+
+Angle: -166
+Angle at p0: 45.3168 degrees
+Angle at p1: 82.1621 degrees
+Angle at p2: 52.5211 degrees
+294.347 88.9768
+376.485 104.9
+380.582 30.0503
+
+Angle: -167
+Angle at p0: 90.079 degrees
+Angle at p1: 37.1888 degrees
+Angle at p2: 52.7322 degrees
+480.075 90.1251
+539.49 59.8356
+457.007 45.0297
+
+Angle: -168
+Angle at p0: 90.3698 degrees
+Angle at p1: 37.2822 degrees
+Angle at p2: 52.348 degrees
+475.35 88.9395
+534.076 57.8484
+451.274 44.164
+
+Angle: -169
+Angle at p0: 90.6453 degrees
+Angle at p1: 37.3844 degrees
+Angle at p2: 51.9703 degrees
+470.6 87.8181
+528.619 55.9349
+445.522 43.3762
+
+Angle: -170
+Angle at p0: 90.9053 degrees
+Angle at p1: 37.4954 degrees
+Angle at p2: 51.5993 degrees
+465.825 86.7614
+523.119 54.0957
+439.753 42.6665
+
+Angle: -171
+Angle: -172
+Angle: -173
+Angle: -174
+Angle: -175
+Angle: -176
+Angle: -177
+Angle: -178
+Angle at p0: 45.0893 degrees
+Angle at p1: 18.2767 degrees
+Angle at p2: 116.634 degrees
+421.187 601.02
+523.491 570.286
+438.89 567.989
+
+Angle: -179
+Angle at p0: 45.4446 degrees
+Angle at p1: 18.3206 degrees
+Angle at p2: 116.235 degrees
+427.939 600.556
+529.538 568.438
+444.898 567.289
+
+Angle: -180
+Angle at p0: 66.6932 degrees
+Angle at p1: 45.8042 degrees
+Angle at p2: 67.5026 degrees
+46.0246 146.793
+166.201 186.698
+111.363 73.3967
+
+Angle: -181
+Angle at p0: 66.9333 degrees
+Angle at p1: 45.4446 degrees
+Angle at p2: 67.6221 degrees
+42.6381 151.489
+163.692 189.757
+106.319 77.2168
+
+Angle: -182
+Angle at p0: 67.187 degrees
+Angle at p1: 45.0893 degrees
+Angle at p2: 67.7237 degrees
+39.3575 156.23
+161.252 192.849
+101.362 81.1048
+
+Angle: -183
+Angle: -184
+Angle: -185
+Angle: -186
+Angle: -187
+Angle: -188
+Angle: -189
+Angle: -190
+Angle at p0: 45.9737 degrees
+Angle at p1: 92.5057 degrees
+Angle at p2: 41.5206 degrees
+323.575 45.0463
+367.471 79.5488
+406.941 33.6171
+
+Angle: -191
+Angle at p0: 45.794 degrees
+Angle at p1: 92.3985 degrees
+Angle at p2: 41.8076 degrees
+317.862 45.9911
+362.526 79.8927
+400.959 33.4324
+
+Angle: -192
+Angle at p0: 45.6246 degrees
+Angle at p1: 92.2736 degrees
+Angle at p2: 42.1018 degrees
+312.171 47.0133
+357.59 80.3037
+394.974 33.329
+
+Angle: -193
+Angle at p0: 45.4655 degrees
+Angle at p1: 92.1312 degrees
+Angle at p2: 42.4033 degrees
+306.505 48.1126
+352.663 80.7816
+388.987 33.3067
+
+Angle: -194
+Angle at p0: 45.3168 degrees
+Angle at p1: 91.9715 degrees
+Angle at p2: 42.7117 degrees
+300.863 49.2886
+347.748 81.3263
+383.001 33.3658
+
+Angle: -195
+Angle at p0: 45.1785 degrees
+Angle at p1: 91.7947 degrees
+Angle at p2: 43.0268 degrees
+295.25 50.541
+342.846 81.9376
+377.017 33.506
+
+Angle: -196
+Angle at p0: 45.0507 degrees
+Angle at p1: 91.6008 degrees
+Angle at p2: 43.3485 degrees
+289.665 51.8694
+337.959 82.6153
+371.038 33.7274
+
+Angle: -197
+Angle at p0: 135.067 degrees
+Angle at p1: 18.1418 degrees
+Angle at p2: 26.7915 degrees
+414.041 64.1159
+494.994 44.8725
+365.064 34.0299
+
+Angle: -198
+Angle at p0: 135.174 degrees
+Angle at p1: 18.1677 degrees
+Angle at p2: 26.6588 degrees
+408.742 63.8302
+489.252 43.4913
+359.097 34.4135
+
+Angle: -199
+Angle at p0: 135.27 degrees
+Angle at p1: 18.1979 degrees
+Angle at p2: 26.5321 degrees
+403.439 63.6165
+483.479 42.1882
+353.141 34.8779
+
+Angle: -200
+Angle at p0: 135.356 degrees
+Angle at p1: 18.2325 degrees
+Angle at p2: 26.4116 degrees
+398.131 63.4748
+477.678 40.9637
+347.195 35.4231
+
+Angle: -201
+Angle at p0: 135.431 degrees
+Angle at p1: 18.2715 degrees
+Angle at p2: 26.2972 degrees
+392.82 63.4052
+471.85 39.818
+341.263 36.0489
+
+Angle: -202
+Angle at p0: 135.496 degrees
+Angle at p1: 18.3149 degrees
+Angle at p2: 26.189 degrees
+387.509 63.4076
+465.997 38.7517
+335.346 36.7551
+
+Angle: -203
+Angle at p0: 135.551 degrees
+Angle at p1: 18.3626 degrees
+Angle at p2: 26.0868 degrees
+382.199 63.4821
+460.122 37.7649
+329.445 37.5414
+
+Angle: -204
+Angle at p0: 135.594 degrees
+Angle at p1: 18.4148 degrees
+Angle at p2: 25.9909 degrees
+376.891 63.6286
+454.225 36.8579
+323.563 38.4078
+
+Angle: -205
+Angle at p0: 135.628 degrees
+Angle at p1: 18.4713 degrees
+Angle at p2: 25.901 degrees
+371.587 63.8472
+448.309 36.0312
+317.702 39.3538
+
+Angle: -206
+Angle at p0: 135.65 degrees
+Angle at p1: 18.5323 degrees
+Angle at p2: 25.8173 degrees
+366.29 64.1376
+442.375 35.2848
+311.862 40.3792
+
+Angle: -207
+Angle at p0: 135.663 degrees
+Angle at p1: 18.5977 degrees
+Angle at p2: 25.7398 degrees
+360.999 64.5
+436.425 34.6191
+306.046 41.4837
+
+Angle: -208
+Angle at p0: 135.664 degrees
+Angle at p1: 18.6675 degrees
+Angle at p2: 25.6683 degrees
+355.717 64.934
+430.461 34.0342
+300.256 42.6669
+
+Angle: -209
+Angle at p0: 135.655 degrees
+Angle at p1: 18.7417 degrees
+Angle at p2: 25.603 degrees
+350.446 65.4397
+424.485 33.5304
+294.494 43.9285
+
+Angle: -210
+Angle at p0: 135.636 degrees
+Angle at p1: 18.8204 degrees
+Angle at p2: 25.5438 degrees
+345.187 66.0168
+418.498 33.1077
+288.761 45.2681
+
+Angle: -211
+Angle at p0: 135.606 degrees
+Angle at p1: 18.9035 degrees
+Angle at p2: 25.4907 degrees
+339.942 66.6651
+412.503 32.7663
+283.058 46.6854
+
+Angle: -212
+Angle at p0: 25.4437 degrees
+Angle at p1: 135.565 degrees
+Angle at p2: 18.991 degrees
+277.389 48.1797
+334.712 67.3846
+406.501 32.5063
+
+Angle: -213
+Angle at p0: 25.4028 degrees
+Angle at p1: 135.514 degrees
+Angle at p2: 19.083 degrees
+271.753 49.7508
+329.499 68.1749
+400.495 32.3277
+
+Angle: -214
+Angle at p0: 25.368 degrees
+Angle at p1: 135.453 degrees
+Angle at p2: 19.1794 degrees
+266.154 51.3981
+324.305 69.0358
+394.485 32.2308
+
+Angle: -215
+Angle at p0: 25.3393 degrees
+Angle at p1: 135.38 degrees
+Angle at p2: 19.2802 degrees
+260.593 53.1212
+319.13 69.9671
+388.474 32.2153
+
+Angle: -216
+Angle at p0: 25.3167 degrees
+Angle at p1: 135.298 degrees
+Angle at p2: 19.3855 degrees
+255.071 54.9194
+313.978 70.9685
+382.463 32.2815
+
+Angle: -217
+Angle at p0: 25.3001 degrees
+Angle at p1: 135.205 degrees
+Angle at p2: 19.4952 degrees
+249.59 56.7923
+308.849 72.0396
+376.455 32.4292
+
+Angle: -218
+Angle at p0: 25.2897 degrees
+Angle at p1: 135.101 degrees
+Angle at p2: 19.6093 degrees
+244.153 58.7393
+303.744 73.1801
+370.451 32.6584
+
+Angle: -219
+Angle at p0: 45.0131 degrees
+Angle at p1: 83.2797 degrees
+Angle at p2: 51.7072 degrees
+172.972 102.18
+232.879 115.811
+238.76 60.7597
+
+Angle: -220
+Angle at p0: 45.1377 degrees
+Angle at p1: 82.7992 degrees
+Angle at p2: 52.0631 degrees
+168.565 105.16
+228.768 117.975
+233.413 62.8531
+
+Angle: -221
+Angle at p0: 45.2727 degrees
+Angle at p1: 82.3139 degrees
+Angle at p2: 52.4134 degrees
+164.225 108.199
+224.707 120.196
+228.113 65.0187
+
+Angle: -222
+Angle at p0: 45.4181 degrees
+Angle at p1: 81.8245 degrees
+Angle at p2: 52.7573 degrees
+159.955 111.297
+220.696 122.47
+222.864 67.2558
+
+Angle: -223
+Angle at p0: 45.574 degrees
+Angle at p1: 81.3317 degrees
+Angle at p2: 53.0943 degrees
+155.754 114.452
+216.737 124.8
+217.665 69.5639
+
+Angle: -224
+Angle at p0: 53.4236 degrees
+Angle at p1: 45.7402 degrees
+Angle at p2: 80.8362 degrees
+212.831 127.182
+273.725 81.4608
+212.519 71.9421
+
+Angle: -225
+Angle at p0: 53.7446 degrees
+Angle at p1: 45.9167 degrees
+Angle at p2: 80.3387 degrees
+208.979 129.617
+268.837 83.0765
+207.427 74.3898
+
+Angle: -226
+Angle at p0: 1.03866e-05 degrees
+Angle at p1: 1.03515e-05 degrees
+Angle at p2: 180 degrees
+796.58 356.577
+751.545 181.519
+774.063 269.048
+
+Angle: -227
+Angle at p0: 1.03162e-05 degrees
+Angle at p1: 1.03162e-05 degrees
+Angle at p2: 180 degrees
+797.788 351.056
+748.831 176.636
+773.309 263.846
+
+Angle: -228
+Angle at p0: 1.02808e-05 degrees
+Angle at p1: 1.02808e-05 degrees
+Angle at p2: 180 degrees
+798.872 345.52
+746.007 171.79
+772.44 258.655
+
+Angle: -229
+Angle at p0: 1.02453e-05 degrees
+Angle at p1: 1.02453e-05 degrees
+Angle at p2: 180 degrees
+799.832 339.969
+743.075 166.984
+771.453 253.476
+
+Angle: -230
+Angle at p0: 1.02453e-05 degrees
+Angle at p1: 1.01739e-05 degrees
+Angle at p2: 180 degrees
+800.666 334.407
+740.036 162.217
+770.351 248.312
+
+Angle: -231
+Angle at p0: 1.0138e-05 degrees
+Angle at p1: 1.0138e-05 degrees
+Angle at p2: 180 degrees
+801.376 328.834
+736.89 157.493
+769.133 243.163
+
+Angle: -232
+Angle at p0: 1.0102e-05 degrees
+Angle at p1: 1.00296e-05 degrees
+Angle at p2: 180 degrees
+801.961 323.252
+733.638 152.812
+767.799 238.032
+
+Angle: -233
+Angle at p0: 1.00658e-05 degrees
+Angle at p1: 1.00658e-05 degrees
+Angle at p2: 180 degrees
+802.42 317.663
+730.282 148.177
+766.351 232.92
+
+Angle: -234
+Angle: -235
+Angle at p0: 66.6213 degrees
+Angle at p1: 45.9168 degrees
+Angle at p2: 67.4619 degrees
+270.79 48.8619
+359.196 78.6595
+319.345 -5.05325
+
+Angle: -236
+Angle at p0: 66.8571 degrees
+Angle at p1: 45.556 degrees
+Angle at p2: 67.5869 degrees
+265.171 50.5224
+354.232 79.1158
+312.508 -4.04338
+
+Angle: -237
+Angle at p0: 67.1066 degrees
+Angle at p1: 45.1993 degrees
+Angle at p2: 67.694 degrees
+259.591 52.2589
+349.28 79.6395
+305.696 -2.9409
+
+Angle: -238
+Angle at p0: 37.3448 degrees
+Angle at p1: 52.1123 degrees
+Angle at p2: 90.543 degrees
+86.2076 527.822
+238.848 551.704
+193.416 469.728
+
+Angle: -239
+Angle at p0: 37.4525 degrees
+Angle at p1: 51.7387 degrees
+Angle at p2: 90.8089 degrees
+91.3678 531.914
+244.521 553.722
+197.256 472.374
+
+Angle: -240
+Angle at p0: 24.1871 degrees
+Angle at p1: 64.9733 degrees
+Angle at p2: 90.8396 degrees
+47.5359 455.242
+102.989 313.581
+40.779 317.548
+
+Angle: -241
+Angle at p0: 24.2492 degrees
+Angle at p1: 65.4155 degrees
+Angle at p2: 90.3354 degrees
+51.0727 459.87
+103.337 317.478
+41.2261 322.289
+
+Angle: -242
+Angle: -243
+Angle: -244
+Angle: -245
+Angle: -246
+Angle: -247
+Angle: -248
+Angle: -249
+Angle: -250
+Angle: -251
+Angle: -252
+Angle: -253
+Angle: -254
+Angle: -255
+Angle: -256
+Angle: -257
+Angle: -258
+Angle: -259
+Angle: -260
+Angle at p0: 45.8607 degrees
+Angle at p1: 92.4411 degrees
+Angle at p2: 41.6982 degrees
+313.217 24.5426
+394.836 87.3174
+466.249 2.22801
+
+Angle: -261
+Angle at p0: 45.6874 degrees
+Angle at p1: 92.3228 degrees
+Angle at p2: 41.9898 degrees
+307.045 25.6311
+390.061 87.2889
+459.553 1.24337
+
+Angle: -262
+Angle at p0: 45.5244 degrees
+Angle at p1: 92.1871 degrees
+Angle at p2: 42.2885 degrees
+300.899 26.8032
+385.287 87.3251
+452.836 0.349729
+
+Angle: -263
+Angle at p0: 45.3718 degrees
+Angle at p1: 92.0339 degrees
+Angle at p2: 42.5943 degrees
+294.781 28.0585
+380.514 87.4261
+446.101 -0.452635
+
+Angle: -264
+Angle at p0: 45.2296 degrees
+Angle at p1: 91.8635 degrees
+Angle at p2: 42.9069 degrees
+288.691 29.3967
+375.744 87.5918
+439.348 -1.16348
+
+Angle: -265
+Angle at p0: 45.0978 degrees
+Angle at p1: 91.6761 degrees
+Angle at p2: 43.2261 degrees
+282.632 30.8172
+370.978 87.8223
+432.581 -1.78258
+
+Angle: -266
+Angle: -267
+Angle at p0: 104.924 degrees
+Angle at p1: 45.984 degrees
+Angle at p2: 29.0919 degrees
+558.542 92.0624
+600.71 106.401
+562.972 26.3344
+
+Angle: -268
+Angle at p0: 105.381 degrees
+Angle at p1: 45.6225 degrees
+Angle at p2: 28.997 degrees
+553.849 89.8117
+596.333 103.576
+556.803 24.0336
+
+Angle: -269
+Angle at p0: 44.6753 degrees
+Angle at p1: 90.7608 degrees
+Angle at p2: 44.5638 degrees
+258.744 37.3148
+351.989 89.3894
+405.403 -3.33828
+
+Angle: -270
+Angle at p0: 44.596 degrees
+Angle at p1: 90.4921 degrees
+Angle at p2: 44.912 degrees
+252.868 39.1405
+347.268 89.942
+398.591 -3.49643
+
+Angle: -271
+Angle at p0: 44.5271 degrees
+Angle at p1: 90.2079 degrees
+Angle at p2: 45.265 degrees
+247.034 41.0457
+342.559 90.5585
+391.778 -3.56213
+
+Angle: -272
+Angle at p0: 44.4688 degrees
+Angle at p1: 89.9088 degrees
+Angle at p2: 45.6225 degrees
+241.243 43.0298
+337.865 91.2388
+384.964 -3.53537
+
+Angle: -273
+Angle at p0: 44.421 degrees
+Angle at p1: 89.595 degrees
+Angle at p2: 45.984 degrees
+235.498 45.0921
+333.187 91.9827
+378.151 -3.41614
+
+Angle: -274
+Angle: -275
+Angle: -276
+Angle: -277
+Angle: -278
+Angle: -279
+Angle: -280
+Angle: -281
+Angle: -282
+Angle: -283
+Angle: -284
+Angle: -285
+Angle: -286
+Angle: -287
+Angle: -288
+Angle: -289
+Angle at p0: 45.0893 degrees
+Angle at p1: 82.9814 degrees
+Angle at p2: 51.9292 degrees
+151.128 88.152
+261.657 112.29
+271.059 10.9505
+
+Angle: -290
+Angle at p0: 45.2204 degrees
+Angle at p1: 82.4978 degrees
+Angle at p2: 52.2817 degrees
+146.409 91.4303
+257.463 114.065
+264.589 12.6132
+
+Angle: -291
+Angle at p0: 66.7823 degrees
+Angle at p1: 45.6678 degrees
+Angle at p2: 67.5499 degrees
+369.702 35.4876
+435.223 56.8478
+404.886 -4.59877
+
+Angle: -292
+Angle at p0: 67.0276 degrees
+Angle at p1: 45.3098 degrees
+Angle at p2: 67.6626 degrees
+363.768 35.808
+429.758 56.2759
+398.047 -4.74972
+
+Angle: -293
+Angle at p0: 90.4571 degrees
+Angle at p1: 37.3131 degrees
+Angle at p2: 52.2298 degrees
+536.706 73.8628
+616.055 31.3613
+503.63 13.2768
+
+Angle: -294
+Angle at p0: 90.7278 degrees
+Angle at p1: 37.418 degrees
+Angle at p2: 51.8541 degrees
+531.608 71.9111
+609.991 28.3395
+497.177 11.7832
+
+Angle: -295
+Angle at p0: 90.9829 degrees
+Angle at p1: 37.5318 degrees
+Angle at p2: 51.4853 degrees
+526.467 70.029
+603.859 25.4003
+490.691 10.3774
+
+Angle: -296
+Angle at p0: 65.2773 degrees
+Angle at p1: 90.4919 degrees
+Angle at p2: 24.2307 degrees
+558.393 127.374
+604.215 124.02
+597.663 22.5449
+
+Angle: -297
+Angle: -298
+Angle: -299
+Angle: -300
+Angle: -301
+Angle at p0: 62.7124 degrees
+Angle at p1: 26.4787 degrees
+Angle at p2: 90.8089 degrees
+126.043 540.477
+240.611 546.221
+151.74 496.25
+
+Angle: -302
+Angle at p0: 63.0962 degrees
+Angle at p1: 26.3608 degrees
+Angle at p2: 90.543 degrees
+131.481 544.027
+246.16 548.215
+156.181 499.457
+
+Angle: -303
+Angle at p0: 18.2899 degrees
+Angle at p1: 116.511 degrees
+Angle at p2: 45.1993 degrees
+184.665 41.9736
+299.421 44.6045
+323.117 -0.293528
+
+Angle: -304
+Angle at p0: 18.3352 degrees
+Angle at p1: 116.109 degrees
+Angle at p2: 45.556 degrees
+178.904 44.8038
+293.702 45.8772
+316.387 0.664431
+
+Angle: -305
+Angle at p0: 18.3849 degrees
+Angle at p1: 115.698 degrees
+Angle at p2: 45.9168 degrees
+173.208 47.7118
+288.012 47.2273
+309.679 1.71357
+
+Angle: -306
+Angle: -307
+Angle: -308
+Angle: -309
+Angle: -310
+Angle: -311
+Angle: -312
+Angle: -313
+Angle: -314
+Angle: -315
+Angle at p0: 45.9167 degrees
+Angle at p1: 92.4742 degrees
+Angle at p2: 41.6091 degrees
+357.237 1.15873
+417.095 47.6992
+470.189 -14.8185
+
+Angle: -316
+Angle at p0: 45.7402 degrees
+Angle at p1: 92.3615 degrees
+Angle at p2: 41.8983 degrees
+350.534 1.65348
+411.428 47.3747
+463.11 -15.8541
+
+Angle: -317
+Angle at p0: 45.574 degrees
+Angle at p1: 92.2312 degrees
+Angle at p2: 42.1948 degrees
+343.844 2.2391
+405.754 47.127
+456.009 -16.7934
+
+Angle: -318
+Angle at p0: 45.4182 degrees
+Angle at p1: 92.0834 degrees
+Angle at p2: 42.4985 degrees
+337.167 2.91542
+400.076 46.9564
+448.888 -17.6362
+
+Angle: -319
+Angle at p0: 45.2727 degrees
+Angle at p1: 91.9183 degrees
+Angle at p2: 42.809 degrees
+330.507 3.68224
+394.395 46.8629
+441.75 -18.3822
+
+Angle: -320
+Angle at p0: 45.1377 degrees
+Angle at p1: 91.7362 degrees
+Angle at p2: 43.1262 degrees
+323.864 4.53932
+388.712 46.8465
+434.595 -19.0313
+
+Angle: -321
+Angle at p0: 45.0131 degrees
+Angle at p1: 91.5371 degrees
+Angle at p2: 43.4498 degrees
+317.242 5.4864
+383.03 46.9071
+427.427 -19.5832
+
+Angle: -322
+Angle at p0: 46.2468 degrees
+Angle at p1: 45.0746 degrees
+Angle at p2: 88.6785 degrees
+420.248 -20.0377
+444.057 87.5667
+486.955 20.484
+
+Angle: -323
+Angle at p0: 45.8979 degrees
+Angle at p1: 45.1915 degrees
+Angle at p2: 88.9106 degrees
+413.06 -20.3948
+439.28 86.8702
+480.666 19.2156
+
+Angle: -324
+Angle at p0: 44.7022 degrees
+Angle at p1: 90.8413 degrees
+Angle at p2: 44.4566 degrees
+297.518 8.86462
+366.004 47.5516
+405.865 -20.6542
+
+Angle: -325
+Angle at p0: 44.6195 degrees
+Angle at p1: 90.5773 degrees
+Angle at p2: 44.8032 degrees
+290.998 10.1685
+360.341 47.9203
+398.665 -20.816
+
+Angle: -326
+Angle at p0: 44.5474 degrees
+Angle at p1: 90.2979 degrees
+Angle at p2: 45.1547 degrees
+284.507 11.5607
+354.687 48.3658
+391.462 -20.8801
+
+Angle: -327
+Angle at p0: 44.4858 degrees
+Angle at p1: 90.0034 degrees
+Angle at p2: 45.5108 degrees
+278.049 13.0408
+349.044 48.888
+384.26 -20.8464
+
+Angle: -328
+Angle at p0: 44.4347 degrees
+Angle at p1: 89.6941 degrees
+Angle at p2: 45.8712 degrees
+271.625 14.6083
+343.414 49.4866
+377.059 -20.715
+
+Angle: -329
+Angle at p0: 18.4319 degrees
+Angle at p1: 25.9623 degrees
+Angle at p2: 135.606 degrees
+302.183 608.804
+479.37 605.954
+406.808 572.055
+
+Angle: -330
+Angle at p0: 18.4898 degrees
+Angle at p1: 25.8743 degrees
+Angle at p2: 135.636 degrees
+309.128 609.953
+486.224 604.699
+412.912 571.79
+
+Angle: -331
+Angle at p0: 18.5522 degrees
+Angle at p1: 25.7926 degrees
+Angle at p2: 135.655 degrees
+316.098 611.008
+493.048 603.352
+419.01 571.443
+
+Angle: -332
+Angle at p0: 18.6189 degrees
+Angle at p1: 25.7169 degrees
+Angle at p2: 135.664 degrees
+323.09 611.968
+499.842 601.912
+425.098 571.012
+
+Angle: -333
+Angle at p0: 18.6901 degrees
+Angle at p1: 25.6473 degrees
+Angle at p2: 135.663 degrees
+330.103 612.833
+506.602 600.38
+431.176 570.499
+
+Angle: -334
+Angle at p0: 18.7657 degrees
+Angle at p1: 25.5839 degrees
+Angle at p2: 135.65 degrees
+337.134 613.603
+513.327 598.757
+437.242 569.904
+
+Angle: -335
+Angle at p0: 18.8458 degrees
+Angle at p1: 25.5266 degrees
+Angle at p2: 135.628 degrees
+344.181 614.277
+520.014 597.043
+443.293 569.227
+
+Angle: -336
+Angle at p0: 18.9302 degrees
+Angle at p1: 25.4754 degrees
+Angle at p2: 135.594 degrees
+351.243 614.856
+526.662 595.238
+449.328 568.467
+
+Angle: -337
+Angle at p0: 19.0191 degrees
+Angle at p1: 25.4303 degrees
+Angle at p2: 135.551 degrees
+358.316 615.338
+533.268 593.343
+455.345 567.626
+
+Angle: -338
+Angle at p0: 19.1125 degrees
+Angle at p1: 25.3913 degrees
+Angle at p2: 135.496 degrees
+365.399 615.725
+539.831 591.359
+461.343 566.703
+
+Angle: -339
+Angle at p0: 19.2103 degrees
+Angle at p1: 25.3584 degrees
+Angle at p2: 135.431 degrees
+372.49 616.015
+546.348 589.286
+467.318 565.699
+
+Angle: -340
+Angle at p0: 19.3125 degrees
+Angle at p1: 25.3316 degrees
+Angle at p2: 135.356 degrees
+379.586 616.209
+552.818 587.125
+473.271 564.614
+
+Angle: -341
+Angle at p0: 19.4191 degrees
+Angle at p1: 25.3109 degrees
+Angle at p2: 135.27 degrees
+386.686 616.307
+559.238 584.877
+479.198 563.448
+
+Angle: -342
+Angle at p0: 19.5302 degrees
+Angle at p1: 25.2962 degrees
+Angle at p2: 135.174 degrees
+393.786 616.308
+565.607 582.542
+485.098 562.203
+
+Angle: -343
+Angle at p0: 19.6456 degrees
+Angle at p1: 25.2877 degrees
+Angle at p2: 135.067 degrees
+400.886 616.214
+571.922 580.12
+490.969 560.877
+
+Angle: -344
+Angle at p0: 45.0507 degrees
+Angle at p1: 83.1308 degrees
+Angle at p2: 51.8185 degrees
+175.049 51.1066
+256.422 69.2486
+263.876 -5.44404
+
+Angle: -345
+Angle at p0: 45.1786 degrees
+Angle at p1: 82.6487 degrees
+Angle at p2: 52.1727 degrees
+169.495 54.066
+251.263 71.101
+257.039 -3.68143
+
+Angle: -346
+Angle at p0: 45.3168 degrees
+Angle at p1: 82.1621 degrees
+Angle at p2: 52.5211 degrees
+164.008 57.1002
+246.146 73.0231
+250.243 -1.82632
+
+Angle: -347
+Angle at p0: 90.079 degrees
+Angle at p1: 37.1888 degrees
+Angle at p2: 52.7322 degrees
+349.04 60.0221
+408.455 29.7325
+325.972 14.9266
+
+Angle: -348
+Angle at p0: 90.3697 degrees
+Angle at p1: 37.2822 degrees
+Angle at p2: 52.3481 degrees
+343.66 60.6191
+402.385 29.5279
+319.583 15.8435
+
+Angle: -349
+Angle at p0: 90.6452 degrees
+Angle at p1: 37.3845 degrees
+Angle at p2: 51.9703 degrees
+338.293 61.289
+396.312 29.4057
+313.215 16.847
+
+Angle: -350
+Angle at p0: 90.9052 degrees
+Angle at p1: 37.4955 degrees
+Angle at p2: 51.5993 degrees
+332.943 62.0316
+390.238 29.3659
+306.871 17.9367
+
+Angle: -351
+Angle: -352
+Angle: -353
+Angle: -354
+Angle: -355
+Angle: -356
+Angle: -357
+Angle: -358
+Angle at p0: 18.2767 degrees
+Angle at p1: 116.634 degrees
+Angle at p2: 45.0893 degrees
+257.195 29.7141
+341.796 32.0111
+359.499 -1.02032
+
+Angle: -359
+Angle at p0: 18.3206 degrees
+Angle at p1: 116.235 degrees
+Angle at p2: 45.4446 degrees
+251.148 31.562
+335.788 32.7107
+352.747 -0.555936
+
+Angle: -360
+Angle at p0: 18.3689 degrees
+Angle at p1: 115.827 degrees
+Angle at p2: 45.8042 degrees
+245.144 33.4917
+329.796 33.4917
+346.006 0
+

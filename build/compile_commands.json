@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/petr/FJFI/Bakalářka/Fortunes_Manhattan/build",
+  "command": "/usr/bin/g++  -I\"/home/petr/FJFI/Bakalářka/Fortunes_Manhattan/'include'\" -g -o CMakeFiles/MyProject.dir/src/main.cpp.o -c /home/petr/FJFI/Bakalářka/Fortunes_Manhattan/src/main.cpp",
+  "file": "/home/petr/FJFI/Bakalářka/Fortunes_Manhattan/src/main.cpp"
+}
+]
