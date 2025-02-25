@@ -44,8 +44,3 @@ Here are sample **Voronoi cells** generated using the modified algorithm in the 
 ![Shape 5](img/shape_5.png)
 ![Shape 6](img/shape_6.png)
 
-## 🏗 Future Improvements
-
-- Optimization of **data structures** for performance.
-- Further analysis of **geometric properties in higher dimensions**.
-
